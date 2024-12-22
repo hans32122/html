@@ -1,0 +1,17 @@
+{
+    padding:0;
+    margin:0;
+}
+
+
+body{
+    background-image: url('Gambar\ WhatsApp\ 2024-08-23\ pukul\ 11.07.00_e2d1c949.jpg');
+    background-size: cover;
+}
+   
+h1, a{
+    background: linear-gradient(pink, white);
+    display: inline-block;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
